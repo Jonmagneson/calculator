@@ -1,0 +1,15 @@
+.container {
+  justify-content: space-around;
+  display: grid;
+}
+
+table {
+  width: 200px;
+  height: 200px;
+  background-color: black;
+}
+
+input {
+  background-color: red;
+}
+
